@@ -1,4 +1,5 @@
 # santiagomonl.github.io
 
 #Welcome
-#This is some text **exphasied**
+
+#This is some text **emphasised**
