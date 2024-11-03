@@ -6,7 +6,8 @@ This is some text **emphasised**
 
 ## Subtitle
 
-![cool image.png]() 
+![cool image](cool image.png)
+
 
 *First python lecture
 
