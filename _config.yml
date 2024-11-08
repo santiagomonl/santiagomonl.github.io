@@ -1,4 +1,5 @@
 title: "SML"
-theme: jekyll-theme-minimal
-logo: "Profile pic.jpg"  
-description: "Colombian science enthusiastic"
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
