@@ -13,15 +13,15 @@ Currently, I joined [Peles lab](https://www.weizmann.ac.il/mcb/peles/) where I'm
 ![](/Oligo.png)
 
 ## About me
- *I love to travel and explore different cultures **that is why I'm here in Israel.**
+ -I love to travel and explore different cultures **that is why I'm here in Israel.**
 
 ![](eldesierto.jpg)
  
- *I used to play some instruments, but recently I have not practiced that much.
+ -I used to play some instruments, but recently I have not practiced that much.
  
- *I love history as well as good quotidian stories.
+ -I love history as well as good quotidian stories.
 
 ## Contact
- *[Linkedin](www.linkedin.com/in/santiago-montealegre-largo-92309a265)
+ -[Linkedin](www.linkedin.com/in/santiago-montealegre-largo-92309a265)
  
- *[Email](santiago.montealegre-largo@weizmann.ac.il)
+ -[Email](santiago.montealegre-largo@weizmann.ac.il)
