@@ -1,8 +1,11 @@
-/* Change the main background */
+
+/* Target the body background */
 body {
-    background-image: url('assets/css/Oligo.png'); /* Replace with the actual path to your image */
-    background-size: cover; /* Ensures the image covers the entire background */
-    background-repeat: no-repeat;
-    background-attachment: fixed; /* Keeps the background fixed when scrolling */
-    background-position: center;
+    background: url('assets/css/Oligo.png') no-repeat center center fixed;
+    background-size: cover;
+}
+
+/* Optionally, target other elements for consistency */
+.page-content {
+    background: transparent;
 }
