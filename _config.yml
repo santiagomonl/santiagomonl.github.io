@@ -3,6 +3,3 @@ description: M. Sc. student at the Weizmann Institute of Science
 #show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
-plugins:
-  - jekyll-remote-theme
-remote_theme: santiagomonl/santiagomonl.github.io
