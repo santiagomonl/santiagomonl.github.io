@@ -1,6 +1,6 @@
 /* Change the main background */
 body {
-    background-image: url('Oligo.png'); /* Replace with the actual path to your image */
+    background-image: url('assets/css/Oligo.png'); /* Replace with the actual path to your image */
     background-size: cover; /* Ensures the image covers the entire background */
     background-repeat: no-repeat;
     background-attachment: fixed; /* Keeps the background fixed when scrolling */
