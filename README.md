@@ -18,9 +18,8 @@ Currently, I joined [Peles lab](https://www.weizmann.ac.il/mcb/peles/) where I'm
 ![](eldesierto.jpg)
  
  *I used to play some instruments, but recently I have not practiced that much.
- *I love history as well as good quotidian stories.
  
-
+ *I love history as well as good quotidian stories.
 
 ## Contact
  *[Linkedin](www.linkedin.com/in/santiago-montealegre-largo-92309a265)
